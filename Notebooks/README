@@ -1,1 +1,5 @@
+Content-Based Reccomender Model with Full Notation
 
+Sentiment Analysis with Default ngram_range = (1,1)
+
+Sentiment Analysis with ngram_range = (1,3)
